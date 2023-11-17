@@ -6,9 +6,9 @@ async function fetchMusic() {
       params: {
         key: 'AIzaSyC4iT6AwRedUw1XDlwujLEbt_yTQ8pFxYE',
         part: 'snippet',
-        maxResults: 200,
+        maxResults: 10,
         type: 'video',
-        q: ' musique Rap FR'
+        q: ' musique Rap fr'
       }
     });
     

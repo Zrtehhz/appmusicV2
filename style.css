@@ -1,0 +1,37 @@
+
+.music-item {
+    display: flex;
+    width: 100%;
+    background-color: #f9f9f9;
+    border: 5px solid #c53dff; 
+    margin-top: 15px;
+  }
+  
+  .music-item img {
+padding-bottom: 15px;
+padding: 5px;
+}
+  
+  .music-item p {
+    margin-left: 10px; 
+    margin-top: 15px;
+}
+
+body {
+  background-color: #adadad;
+}
+
+p {
+  color: #0c0c0c;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: center;
+}
+
+
+.hr {
+  opacity: 1;
+  border-top: 3px solid #870987;
+}

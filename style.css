@@ -3,7 +3,7 @@
     display: flex;
     width: 100%;
     background-color: #f9f9f9;
-    border: 5px solid #c53dff; 
+    border: 5px solid #7d00b3; 
     margin-top: 15px;
   }
   
@@ -18,7 +18,7 @@ padding: 5px;
 }
 
 body {
-  background-color: #adadad;
+  background-color: #0c0c0c;
 }
 
 p {
@@ -33,5 +33,5 @@ p {
 
 .hr {
   opacity: 1;
-  border-top: 3px solid #870987;
+  border-top: 3px solid #7d00b3;
 }

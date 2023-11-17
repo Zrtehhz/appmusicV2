@@ -8,7 +8,7 @@ async function fetchMusic() {
         part: 'snippet',
         maxResults: 200,
         type: 'video',
-        q: 'gta rp musique RAP Flashback'
+        q: ' musique Rap FR'
       }
     });
     

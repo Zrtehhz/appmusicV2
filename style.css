@@ -53,4 +53,5 @@ p {
 .hr {
   opacity: 1;
   border-top: 3px solid #7d00b3;
+  padding-top: 75px;
 }

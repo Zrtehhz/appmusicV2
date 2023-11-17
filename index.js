@@ -4,7 +4,7 @@ async function fetchMusic() {
   try {
     const response = await axios.get('https://www.googleapis.com/youtube/v3/search', {
       params: {
-        key: 'AIzaSyDFfCoDtVA0JvttwHsfkrcL_I-kbc39rOk',
+        key: 'AIzaSyC4iT6AwRedUw1XDlwujLEbt_yTQ8pFxYE',
         part: 'snippet',
         maxResults: 200,
         type: 'video',
